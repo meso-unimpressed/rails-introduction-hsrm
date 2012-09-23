@@ -23,6 +23,9 @@ end
 
 gem 'jquery-rails'
 
+gem 'carrierwave', '~>0.6.1'
+
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
